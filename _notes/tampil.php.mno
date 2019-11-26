@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tampil" value="name:id;datatype:int,name:pembeli;datatype:string,name:makanan;datatype:string,name:jumlah;datatype:int,name:minuman;datatype:string,name:jumlah1;datatype:int,name:total;datatype:int" />
+</info>
